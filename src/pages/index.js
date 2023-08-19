@@ -92,7 +92,7 @@ const IndexPage = () => (
           </React.Fragment>
         ))}
         <br />
-         </nab>
+         </nav>
         <p className={styles.intro}>
       </p>
     </div>
