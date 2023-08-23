@@ -52,3 +52,22 @@
   max-width: none;
   line-height: var(--line-height-loose);
 }
+
+
+.navbar {
+  display: flex;
+  justify-content: center;
+  background-color: #663399;
+  padding: 1rem;
+}
+
+.navbar a {
+  color: white;
+  margin: 0 1rem;
+  text-decoration: none;
+}
+
+.navbar a:hover {
+  text-decoration: underline;
+}
+
